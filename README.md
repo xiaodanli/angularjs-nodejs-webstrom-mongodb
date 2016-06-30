@@ -34,3 +34,6 @@
 >........app.js
 >........bower_components  //angular模块
 >node_modules    //安装依赖的模块
+
+
+以上代码完成后，即可执行server.js，打开index.html
